@@ -1,0 +1,64 @@
+.forme{
+    color: white;
+    background-color: rgb(124, 124, 238);
+    height: 40px;
+
+    
+}
+.for{
+    color: rgba(12, 1, 1, 0.76);
+    background-color: rgb(254, 254, 255);
+    height: 40px;
+}
+.ba{
+    background-color: rgba(139, 138, 138, 0.884);
+    width: 340px;
+    height: 40px;
+    color: rgba(12, 1, 1, 0.747);
+}
+#ttr{
+    margin-left: 40px;
+}
+.div,section{
+    margin-top: 70px;
+}
+
+.re{
+    background-color: blue;
+    width: 400px;
+    height: 40px;
+}
+.vo{
+    background-color: blue;
+    border: 0px;
+    color: white;
+    margin-left: 80px;
+    margin-top: 7px;
+}
+.sec{
+    margin-left: 40px;
+}
+.hh{
+    margin-top: -20px;
+}
+div{
+    margin-top: 15px;
+    
+}
+.input,button{
+    margin-top: 40px;
+}
+.button,div{
+    margin-top: 40px;
+}
+.rr{
+    width: 380px;
+}
+.dis{
+    border: 0px;
+    height: 24px;
+    border-radius: 3px;
+    margin-left: 300px;
+    background-color: blue;
+    color: white;
+}
